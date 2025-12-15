@@ -1,0 +1,19 @@
+{
+   "UserInfo":[
+    {
+        "id": 1,
+        "name": "Roman",
+        "age": 21,
+        "Gender": "Bangladesh",
+        "address": {
+            "city": "Dhaka",
+            "zipCode": 32413
+        },
+        "CompanyInfo":{
+            "CompanyName": "Hablu Programmer",
+            "Students": 2000,
+            "Earning": 100000 
+        }
+    }
+   ]
+}
